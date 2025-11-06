@@ -46,6 +46,10 @@ Utiliza scp desde tu máquina local:
 
 En la VM crear la estructura de carpetas
 Ajustar los permisos y propiedad de los archivos para que Apache
-pueda servirlos correctamente
-
+pueda servirlos correctamente:
+:
 ![alt text](image-12.png)
+
+
+### Comprobar
+![alt text](image-13.png)
